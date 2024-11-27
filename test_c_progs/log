@@ -1,0 +1,1324 @@
+
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/ftplugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/ftplugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/indent.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/indent.vim
+could not source "/opt/homebrew/etc/xdg/nvim/sysinit.vim"
+could not source "/etc/xdg/nvim/sysinit.vim"
+could not source "$VIM/sysinit.vim"
+sourcing "/Users/nathanblackburn/.config/nvim/init.lua"
+not found in runtime path: "parser/ada.so"
+not found in runtime path: "parser/agda.so"
+not found in runtime path: "parser/angular.so"
+not found in runtime path: "parser/apex.so"
+not found in runtime path: "parser/arduino.so"
+not found in runtime path: "parser/asm.so"
+not found in runtime path: "parser/astro.so"
+not found in runtime path: "parser/authzed.so"
+not found in runtime path: "parser/awk.so"
+not found in runtime path: "parser/bash.so"
+not found in runtime path: "parser/bass.so"
+not found in runtime path: "parser/beancount.so"
+not found in runtime path: "parser/bibtex.so"
+not found in runtime path: "parser/bicep.so"
+not found in runtime path: "parser/bitbake.so"
+not found in runtime path: "parser/blueprint.so"
+not found in runtime path: "parser/bp.so"
+not found in runtime path: "parser/c_sharp.so"
+not found in runtime path: "parser/cairo.so"
+not found in runtime path: "parser/capnp.so"
+not found in runtime path: "parser/chatito.so"
+not found in runtime path: "parser/clojure.so"
+not found in runtime path: "parser/cmake.so"
+not found in runtime path: "parser/comment.so"
+not found in runtime path: "parser/commonlisp.so"
+not found in runtime path: "parser/cooklang.so"
+not found in runtime path: "parser/corn.so"
+not found in runtime path: "parser/cpon.so"
+not found in runtime path: "parser/cpp.so"
+not found in runtime path: "parser/css.so"
+not found in runtime path: "parser/csv.so"
+not found in runtime path: "parser/cuda.so"
+not found in runtime path: "parser/cue.so"
+not found in runtime path: "parser/cylc.so"
+not found in runtime path: "parser/d.so"
+not found in runtime path: "parser/dart.so"
+not found in runtime path: "parser/desktop.so"
+not found in runtime path: "parser/devicetree.so"
+not found in runtime path: "parser/dhall.so"
+not found in runtime path: "parser/diff.so"
+not found in runtime path: "parser/disassembly.so"
+not found in runtime path: "parser/djot.so"
+not found in runtime path: "parser/dockerfile.so"
+not found in runtime path: "parser/dot.so"
+not found in runtime path: "parser/doxygen.so"
+not found in runtime path: "parser/dtd.so"
+not found in runtime path: "parser/earthfile.so"
+not found in runtime path: "parser/ebnf.so"
+not found in runtime path: "parser/editorconfig.so"
+not found in runtime path: "parser/eds.so"
+not found in runtime path: "parser/eex.so"
+not found in runtime path: "parser/elixir.so"
+not found in runtime path: "parser/elm.so"
+not found in runtime path: "parser/elsa.so"
+not found in runtime path: "parser/elvish.so"
+not found in runtime path: "parser/embedded_template.so"
+not found in runtime path: "parser/erlang.so"
+not found in runtime path: "parser/facility.so"
+not found in runtime path: "parser/faust.so"
+not found in runtime path: "parser/fennel.so"
+not found in runtime path: "parser/fidl.so"
+not found in runtime path: "parser/firrtl.so"
+not found in runtime path: "parser/fish.so"
+not found in runtime path: "parser/foam.so"
+not found in runtime path: "parser/forth.so"
+not found in runtime path: "parser/fortran.so"
+not found in runtime path: "parser/fsh.so"
+not found in runtime path: "parser/fsharp.so"
+not found in runtime path: "parser/func.so"
+not found in runtime path: "parser/fusion.so"
+not found in runtime path: "parser/gap.so"
+not found in runtime path: "parser/gaptst.so"
+not found in runtime path: "parser/gdscript.so"
+not found in runtime path: "parser/gdshader.so"
+not found in runtime path: "parser/git_config.so"
+not found in runtime path: "parser/git_rebase.so"
+not found in runtime path: "parser/gitattributes.so"
+not found in runtime path: "parser/gitcommit.so"
+not found in runtime path: "parser/gitignore.so"
+not found in runtime path: "parser/gleam.so"
+not found in runtime path: "parser/glimmer.so"
+not found in runtime path: "parser/glimmer_javascript.so"
+not found in runtime path: "parser/glimmer_typescript.so"
+not found in runtime path: "parser/glsl.so"
+not found in runtime path: "parser/gn.so"
+not found in runtime path: "parser/gnuplot.so"
+not found in runtime path: "parser/go.so"
+not found in runtime path: "parser/goctl.so"
+not found in runtime path: "parser/godot_resource.so"
+not found in runtime path: "parser/gomod.so"
+not found in runtime path: "parser/gosum.so"
+not found in runtime path: "parser/gotmpl.so"
+not found in runtime path: "parser/gowork.so"
+not found in runtime path: "parser/gpg.so"
+not found in runtime path: "parser/graphql.so"
+not found in runtime path: "parser/gren.so"
+not found in runtime path: "parser/groovy.so"
+not found in runtime path: "parser/gstlaunch.so"
+not found in runtime path: "parser/hack.so"
+not found in runtime path: "parser/hare.so"
+not found in runtime path: "parser/haskell.so"
+not found in runtime path: "parser/haskell_persistent.so"
+not found in runtime path: "parser/hcl.so"
+not found in runtime path: "parser/heex.so"
+not found in runtime path: "parser/helm.so"
+not found in runtime path: "parser/hjson.so"
+not found in runtime path: "parser/hlsl.so"
+not found in runtime path: "parser/hlsplaylist.so"
+not found in runtime path: "parser/hocon.so"
+not found in runtime path: "parser/hoon.so"
+not found in runtime path: "parser/html.so"
+not found in runtime path: "parser/htmldjango.so"
+not found in runtime path: "parser/http.so"
+not found in runtime path: "parser/hurl.so"
+not found in runtime path: "parser/hyprlang.so"
+not found in runtime path: "parser/idl.so"
+not found in runtime path: "parser/ini.so"
+not found in runtime path: "parser/inko.so"
+not found in runtime path: "parser/ispc.so"
+not found in runtime path: "parser/janet_simple.so"
+not found in runtime path: "parser/java.so"
+not found in runtime path: "parser/javascript.so"
+not found in runtime path: "parser/jq.so"
+not found in runtime path: "parser/jsdoc.so"
+not found in runtime path: "parser/json.so"
+not found in runtime path: "parser/json5.so"
+not found in runtime path: "parser/jsonc.so"
+not found in runtime path: "parser/jsonnet.so"
+not found in runtime path: "parser/julia.so"
+not found in runtime path: "parser/just.so"
+not found in runtime path: "parser/kconfig.so"
+not found in runtime path: "parser/kdl.so"
+not found in runtime path: "parser/kotlin.so"
+not found in runtime path: "parser/koto.so"
+not found in runtime path: "parser/kusto.so"
+not found in runtime path: "parser/lalrpop.so"
+not found in runtime path: "parser/latex.so"
+not found in runtime path: "parser/ledger.so"
+not found in runtime path: "parser/leo.so"
+not found in runtime path: "parser/linkerscript.so"
+not found in runtime path: "parser/liquid.so"
+not found in runtime path: "parser/liquidsoap.so"
+not found in runtime path: "parser/llvm.so"
+not found in runtime path: "parser/luadoc.so"
+not found in runtime path: "parser/luap.so"
+not found in runtime path: "parser/luau.so"
+not found in runtime path: "parser/m68k.so"
+not found in runtime path: "parser/make.so"
+not found in runtime path: "parser/markdown.so"
+not found in runtime path: "parser/markdown_inline.so"
+not found in runtime path: "parser/matlab.so"
+not found in runtime path: "parser/menhir.so"
+not found in runtime path: "parser/mermaid.so"
+not found in runtime path: "parser/meson.so"
+not found in runtime path: "parser/mlir.so"
+not found in runtime path: "parser/muttrc.so"
+not found in runtime path: "parser/nasm.so"
+not found in runtime path: "parser/nginx.so"
+not found in runtime path: "parser/nickel.so"
+not found in runtime path: "parser/nim.so"
+not found in runtime path: "parser/nim_format_string.so"
+not found in runtime path: "parser/ninja.so"
+not found in runtime path: "parser/nix.so"
+not found in runtime path: "parser/norg.so"
+not found in runtime path: "parser/nqc.so"
+not found in runtime path: "parser/nu.so"
+not found in runtime path: "parser/objc.so"
+not found in runtime path: "parser/objdump.so"
+not found in runtime path: "parser/ocaml.so"
+not found in runtime path: "parser/ocaml_interface.so"
+not found in runtime path: "parser/ocamllex.so"
+not found in runtime path: "parser/odin.so"
+not found in runtime path: "parser/org.so"
+not found in runtime path: "parser/pascal.so"
+not found in runtime path: "parser/passwd.so"
+not found in runtime path: "parser/pem.so"
+not found in runtime path: "parser/perl.so"
+not found in runtime path: "parser/php.so"
+not found in runtime path: "parser/php_only.so"
+not found in runtime path: "parser/phpdoc.so"
+not found in runtime path: "parser/pioasm.so"
+not found in runtime path: "parser/po.so"
+not found in runtime path: "parser/pod.so"
+not found in runtime path: "parser/poe_filter.so"
+not found in runtime path: "parser/pony.so"
+not found in runtime path: "parser/powershell.so"
+not found in runtime path: "parser/printf.so"
+not found in runtime path: "parser/prisma.so"
+not found in runtime path: "parser/problog.so"
+not found in runtime path: "parser/prolog.so"
+not found in runtime path: "parser/promql.so"
+not found in runtime path: "parser/properties.so"
+not found in runtime path: "parser/proto.so"
+not found in runtime path: "parser/prql.so"
+not found in runtime path: "parser/psv.so"
+not found in runtime path: "parser/pug.so"
+not found in runtime path: "parser/puppet.so"
+not found in runtime path: "parser/purescript.so"
+not found in runtime path: "parser/pymanifest.so"
+not found in runtime path: "parser/python.so"
+not found in runtime path: "parser/ql.so"
+not found in runtime path: "parser/qmldir.so"
+not found in runtime path: "parser/qmljs.so"
+not found in runtime path: "parser/r.so"
+not found in runtime path: "parser/racket.so"
+not found in runtime path: "parser/ralph.so"
+not found in runtime path: "parser/rasi.so"
+not found in runtime path: "parser/rbs.so"
+not found in runtime path: "parser/re2c.so"
+not found in runtime path: "parser/readline.so"
+not found in runtime path: "parser/regex.so"
+not found in runtime path: "parser/rego.so"
+not found in runtime path: "parser/requirements.so"
+not found in runtime path: "parser/rescript.so"
+not found in runtime path: "parser/rnoweb.so"
+not found in runtime path: "parser/robot.so"
+not found in runtime path: "parser/robots.so"
+not found in runtime path: "parser/roc.so"
+not found in runtime path: "parser/ron.so"
+not found in runtime path: "parser/rst.so"
+not found in runtime path: "parser/ruby.so"
+not found in runtime path: "parser/runescript.so"
+not found in runtime path: "parser/rust.so"
+not found in runtime path: "parser/scala.so"
+not found in runtime path: "parser/scfg.so"
+not found in runtime path: "parser/scheme.so"
+not found in runtime path: "parser/scss.so"
+not found in runtime path: "parser/sflog.so"
+not found in runtime path: "parser/slang.so"
+not found in runtime path: "parser/slint.so"
+not found in runtime path: "parser/smali.so"
+not found in runtime path: "parser/smithy.so"
+not found in runtime path: "parser/snakemake.so"
+not found in runtime path: "parser/solidity.so"
+not found in runtime path: "parser/soql.so"
+not found in runtime path: "parser/sosl.so"
+not found in runtime path: "parser/sourcepawn.so"
+not found in runtime path: "parser/sparql.so"
+not found in runtime path: "parser/sql.so"
+not found in runtime path: "parser/squirrel.so"
+not found in runtime path: "parser/ssh_config.so"
+not found in runtime path: "parser/starlark.so"
+not found in runtime path: "parser/strace.so"
+not found in runtime path: "parser/styled.so"
+not found in runtime path: "parser/supercollider.so"
+not found in runtime path: "parser/superhtml.so"
+not found in runtime path: "parser/surface.so"
+not found in runtime path: "parser/svelte.so"
+not found in runtime path: "parser/sway.so"
+not found in runtime path: "parser/swift.so"
+not found in runtime path: "parser/sxhkdrc.so"
+not found in runtime path: "parser/systemtap.so"
+not found in runtime path: "parser/t32.so"
+not found in runtime path: "parser/tablegen.so"
+not found in runtime path: "parser/tact.so"
+not found in runtime path: "parser/tcl.so"
+not found in runtime path: "parser/teal.so"
+not found in runtime path: "parser/templ.so"
+not found in runtime path: "parser/terraform.so"
+not found in runtime path: "parser/textproto.so"
+not found in runtime path: "parser/thrift.so"
+not found in runtime path: "parser/tiger.so"
+not found in runtime path: "parser/tlaplus.so"
+not found in runtime path: "parser/tmux.so"
+not found in runtime path: "parser/todotxt.so"
+not found in runtime path: "parser/toml.so"
+not found in runtime path: "parser/tsv.so"
+not found in runtime path: "parser/tsx.so"
+not found in runtime path: "parser/turtle.so"
+not found in runtime path: "parser/twig.so"
+not found in runtime path: "parser/typescript.so"
+not found in runtime path: "parser/typespec.so"
+not found in runtime path: "parser/typoscript.so"
+not found in runtime path: "parser/typst.so"
+not found in runtime path: "parser/udev.so"
+not found in runtime path: "parser/ungrammar.so"
+not found in runtime path: "parser/unison.so"
+not found in runtime path: "parser/usd.so"
+not found in runtime path: "parser/uxntal.so"
+not found in runtime path: "parser/v.so"
+not found in runtime path: "parser/vala.so"
+not found in runtime path: "parser/vento.so"
+not found in runtime path: "parser/verilog.so"
+not found in runtime path: "parser/vhdl.so"
+not found in runtime path: "parser/vhs.so"
+not found in runtime path: "parser/vrl.so"
+not found in runtime path: "parser/vue.so"
+not found in runtime path: "parser/wgsl.so"
+not found in runtime path: "parser/wgsl_bevy.so"
+not found in runtime path: "parser/wing.so"
+not found in runtime path: "parser/wit.so"
+not found in runtime path: "parser/xcompose.so"
+not found in runtime path: "parser/xml.so"
+not found in runtime path: "parser/xresources.so"
+not found in runtime path: "parser/yaml.so"
+not found in runtime path: "parser/yang.so"
+not found in runtime path: "parser/yuck.so"
+not found in runtime path: "parser/zathurarc.so"
+not found in runtime path: "parser/zig.so"
+not found in runtime path: "parser/ziggy.so"
+not found in runtime path: "parser/ziggy_schema.so"
+--- Autocommands ---
+--- Autocommands ---
+lualine  BufEnter
+    *         lua require'lualine.components.branch.git_branch'.find_git_dir()
+	Last set from ~/programming/mini-c-compiler/src/test_c_progs/vim/_editor.lua
+--- Autocommands ---
+finished sourcing /Users/nathanblackburn/.config/nvim/init.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/filetype.lua"
+not found in runtime path: "ftdetect/*.vim"
+not found in runtime path: "ftdetect/*.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/filetype.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/syntax/syntax.vim"
+line 19: sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/syntax/synload.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/syntax/synload.vim
+continuing in /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/syntax/syntax.vim
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/syntax/syntax.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/gzip.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/gzip.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/health.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/health.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/matchit.vim"
+not found in 'packpath': "pack/*/start/matchit"
+line 3: sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+continuing in /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/matchit.vim
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/matchit.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/matchparen.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/matchparen.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/netrwPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/netrwPlugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/rplugin.vim"
+line 3: sourcing "/Users/nathanblackburn/.local/share/nvim/rplugin.vim"
+finished sourcing /Users/nathanblackburn/.local/share/nvim/rplugin.vim
+continuing in <SNR>15_LoadRemotePlugins
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/rplugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/shada.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/shada.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/spellfile.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/spellfile.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/tarPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/tarPlugin.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/tohtml.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/tohtml.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/tutor.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/tutor.vim
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/zipPlugin.vim"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/zipPlugin.vim
+sourcing "/Users/nathanblackburn/.config/nvim/plugin/packer_compiled.lua"
+not found in 'packpath': "pack/*/opt/packer.nvim"
+finished sourcing /Users/nathanblackburn/.config/nvim/plugin/packer_compiled.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/editorconfig.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/editorconfig.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/man.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/man.lua
+sourcing "/opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/nvim.lua"
+finished sourcing /opt/homebrew/Cellar/neovim/0.9.5/share/nvim/runtime/plugin/nvim.lua
+sourcing "/Users/nathanblackburn/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/plugin/lspconfig.lua"
+finished sourcing /Users/nathanblackburn/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/plugin/lspconfig.lua
+sourcing "/Users/nathanblackburn/.local/share/nvim/site/pack/packer/start/nvim-treesitter/plugin/nvim-treesitter.lua"
+finished sourcing /Users/nathanblackburn/.local/share/nvim/site/pack/packer/start/nvim-treesitter/plugin/nvim-treesitter.lua
+sourcing "/Users/nathanblackburn/.local/share/nvim/site/pack/packer/start/telescope.nvim/plugin/telescope.lua"
+finished sourcing /Users/nathanblackburn/.local/share/nvim/site/pack/packer/start/telescope.nvim/plugin/telescope.lua
+not found in 'packpath': "start/*"
+not found in runtime path: "plugin/**/*.vim"
+not found in runtime path: "plugin/**/*.lua"
+Reading ShaDa file "/Users/nathanblackburn/.local/state/nvim/shada/main.shada" info marks oldfiles
+
+
+--- Terminal info --- {{{
+&term: xterm-256color
+Description: xterm with 256 colors
+Aliases: xterm-256color
+Boolean capabilities:
+  auto_left_margin          bw         = false
+  auto_right_margin         am         = true
+  no_esc_ctlc               xsb        = false
+  ceol_standout_glitch      xhp        = false
+  eat_newline_glitch        xenl       = true
+  erase_overstrike          eo         = false
+  generic_type              gn         = false
+  hard_copy                 hc         = false
+  has_meta_key              km         = true
+  has_status_line           hs         = false
+  insert_null_glitch        in         = false
+  memory_above              da         = false
+  memory_below              db         = false
+  move_insert_mode          mir        = true
+  move_standout_mode        msgr       = true
+  over_strike               os         = false
+  status_line_esc_ok        eslok      = false
+  dest_tabs_magic_smso      xt         = false
+  tilde_glitch              hz         = false
+  transparent_underline     ul         = false
+  xon_xoff                  xon        = false
+  needs_xon_xoff            nxon       = false
+  prtr_silent               mc5i       = true
+  hard_cursor               chts       = false
+  non_rev_rmcup             nrrmc      = false
+  no_pad_char               npc        = true
+  non_dest_scroll_region    ndscr      = false
+  can_change                ccc        = true
+  back_color_erase          bce        = true
+  hue_lightness_saturation  hls        = false
+  col_addr_glitch           xhpa       = false
+  cr_cancels_micro_mode     crxm       = false
+  has_print_wheel           daisy      = false
+  row_addr_glitch           xvpa       = false
+  semi_auto_right_margin    sam        = false
+  cpi_changes_res           cpix       = false
+  lpi_changes_res           lpix       = false
+  backspaces_with_bs        OTbs       = true
+  crt_no_scrolling          OTns       = false
+  no_correctly_working_cr   OTnc       = false
+  gnu_has_meta_key          OTMT       = false
+  linefeed_is_newline       OTNL       = false
+  has_hardware_tabs         OTpt       = false
+  return_does_clr_eol       OTxr       = false
+Numeric capabilities:
+  columns                   cols       = 80
+  init_tabs                 it         = 8
+  lines                     lines      = 24
+  lines_of_memory           lm         = -1
+  magic_cookie_glitch       xmc        = -1
+  padding_baud_rate         pb         = -1
+  virtual_terminal          vt         = -1
+  width_status_line         wsl        = -1
+  num_labels                nlab       = -1
+  label_height              lh         = -1
+  label_width               lw         = -1
+  max_attributes            ma         = -1
+  maximum_windows           wnum       = -1
+  max_colors                colors     = 256
+  max_pairs                 pairs      = 32767
+  no_color_video            ncv        = -1
+  buffer_capacity           bufsz      = -1
+  dot_vert_spacing          spinv      = -1
+  dot_horz_spacing          spinh      = -1
+  max_micro_address         maddr      = -1
+  max_micro_jump            mjump      = -1
+  micro_col_size            mcs        = -1
+  micro_line_size           mls        = -1
+  number_of_pins            npins      = -1
+  output_res_char           orc        = -1
+  output_res_line           orl        = -1
+  output_res_horz_inch      orhi       = -1
+  output_res_vert_inch      orvi       = -1
+  print_rate                cps        = -1
+  wide_char_size            widcs      = -1
+  buttons                   btns       = -1
+  bit_image_entwining       bitwin     = -1
+  bit_image_type            bitype     = -1
+  magic_cookie_glitch_ul    OTug       = -1
+  carriage_return_delay     OTdC       = -1
+  new_line_delay            OTdN       = -1
+  backspace_delay           OTdB       = -1
+  horizontal_tab_delay      OTdT       = -1
+  number_of_function_keys   OTkn       = -1
+String capabilities:
+  back_tab                  cbt        = ^[[Z
+  bell                      bel        = ^G
+  carriage_return           cr         = ^M
+  change_scroll_region      csr        = ^[[%i%p1%d;%p2%dr
+  clear_all_tabs            tbc        = ^[[3g
+  clear_screen              clear      = ^[[H^[[2J
+  clr_eol                   el         = ^[[K
+  clr_eos                   ed         = ^[[J
+  column_address            hpa        = ^[[%i%p1%dG
+  cursor_address            cup        = ^[[%i%p1%d;%p2%dH
+  cursor_down               cud1       = ^@
+  cursor_home               home       = ^[[H
+  cursor_invisible          civis      = ^[[?25l
+  cursor_left               cub1       = ^H
+  cursor_normal             cnorm      = ^[[?25h
+  cursor_right              cuf1       = ^[[C
+  cursor_up                 cuu1       = ^[[A
+  cursor_visible            cvvis      = ^[[?12;25h
+  delete_character          dch1       = ^[[P
+  delete_line               dl1        = ^[[M
+  enter_alt_charset_mode    smacs      = ^[(0
+  enter_blink_mode          blink      = ^[[5m
+  enter_bold_mode           bold       = ^[[1m
+  enter_ca_mode             smcup      = ^[[?1049h
+  enter_dim_mode            dim        = ^[[2m
+  enter_insert_mode         smir       = ^[[4h
+  enter_secure_mode         invis      = ^[[8m
+  enter_reverse_mode        rev        = ^[[7m
+  enter_standout_mode       smso       = ^[[7m
+  enter_underline_mode      smul       = ^[[4m
+  erase_chars               ech        = ^[[%p1%dX
+  exit_alt_charset_mode     rmacs      = ^[(B
+  exit_attribute_mode       sgr0       = ^[(B^[[m
+  exit_ca_mode              rmcup      = ^[[?1049l
+  exit_insert_mode          rmir       = ^[[4l
+  exit_standout_mode        rmso       = ^[[27m
+  exit_underline_mode       rmul       = ^[[24m
+  flash_screen              flash      = ^[[?5h$<100/>^[[?5l
+  from_status_line          fsl        = ^G
+  init_2string              is2        = ^[[!p^[[?3;4l^[[4l^[>
+  insert_line               il1        = ^[[L
+  key_backspace             kbs        = ^H
+  key_dc                    kdch1      = ^[[3~
+  key_down                  kcud1      = ^[OB
+  key_f1                    kf1        = ^[OP
+  key_f10                   kf10       = ^[[21~
+  key_f2                    kf2        = ^[OQ
+  key_f3                    kf3        = ^[OR
+  key_f4                    kf4        = ^[OS
+  key_f5                    kf5        = ^[[15~
+  key_f6                    kf6        = ^[[17~
+  key_f7                    kf7        = ^[[18~
+  key_f8                    kf8        = ^[[19~
+  key_f9                    kf9        = ^[[20~
+  key_home                  khome      = ^[OH
+  key_ic                    kich1      = ^[[2~
+  key_left                  kcub1      = ^[OD
+  key_npage                 knp        = ^[[6~
+  key_ppage                 kpp        = ^[[5~
+  key_right                 kcuf1      = ^[OC
+  key_sf                    kind       = ^[[1;2B
+  key_sr                    kri        = ^[[1;2A
+  key_up                    kcuu1      = ^[OA
+  keypad_local              rmkx       = ^[[?1l^[>
+  keypad_xmit               smkx       = ^[[?1h^[=
+  meta_off                  rmm        = ^[[?1034l
+  meta_on                   smm        = ^[[?1034h
+  parm_dch                  dch        = ^[[%p1%dP
+  parm_delete_line          dl         = ^[[%p1%dM
+  parm_down_cursor          cud        = ^[[%p1%dB
+  parm_ich                  ich        = ^[[%p1%d@
+  parm_index                indn       = ^[[%p1%dS
+  parm_insert_line          il         = ^[[%p1%dL
+  parm_left_cursor          cub        = ^[[%p1%dD
+  parm_right_cursor         cuf        = ^[[%p1%dC
+  parm_rindex               rin        = ^[[%p1%dT
+  parm_up_cursor            cuu        = ^[[%p1%dA
+  print_screen              mc0        = ^[[i
+  prtr_off                  mc4        = ^[[4i
+  prtr_on                   mc5        = ^[[5i
+  reset_1string             rs1        = ^[c
+  reset_2string             rs2        = ^[[!p^[[?3;4l^[[4l^[>
+  restore_cursor            rc         = ^[8
+  row_address               vpa        = ^[[%i%p1%dd
+  save_cursor               sc         = ^[7
+  scroll_forward            ind        = ^@
+  scroll_reverse            ri         = ^[M
+  set_attributes            sgr        = %?%p9%t^[(0%e^[(B%;^[[0%?%p6%t;1%;%?%p5%t;2%;%?%p2%t;4%;%?%p1%p3%|%t;7%;%?%p4%t;5%;%?%p7%t;8%;m
+  set_tab                   hts        = ^[H
+  tab                       ht         = 	
+  to_status_line            tsl        = ^[]0;
+  key_b2                    kb2        = ^[OE
+  acs_chars                 acsc       = ``aaffggiijjkkllmmnnooppqqrrssttuuvvwwxxyyzz{{||}}~~
+  key_btab                  kcbt       = ^[[Z
+  enter_am_mode             smam       = ^[[?7h
+  exit_am_mode              rmam       = ^[[?7l
+  key_end                   kend       = ^[OF
+  key_enter                 kent       = ^[OM
+  key_sdc                   kDC        = ^[[3;2~
+  key_send                  kEND       = ^[[1;2F
+  key_shome                 kHOM       = ^[[1;2H
+  key_sic                   kIC        = ^[[2;2~
+  key_sleft                 kLFT       = ^[[1;2D
+  key_snext                 kNXT       = ^[[6;2~
+  key_sprevious             kPRV       = ^[[5;2~
+  key_sright                kRIT       = ^[[1;2C
+  key_f11                   kf11       = ^[[23~
+  key_f12                   kf12       = ^[[24~
+  key_f13                   kf13       = ^[[1;2P
+  key_f14                   kf14       = ^[[1;2Q
+  key_f15                   kf15       = ^[[1;2R
+  key_f16                   kf16       = ^[[1;2S
+  key_f17                   kf17       = ^[[15;2~
+  key_f18                   kf18       = ^[[17;2~
+  key_f19                   kf19       = ^[[18;2~
+  key_f20                   kf20       = ^[[19;2~
+  key_f21                   kf21       = ^[[20;2~
+  key_f22                   kf22       = ^[[21;2~
+  key_f23                   kf23       = ^[[23;2~
+  key_f24                   kf24       = ^[[24;2~
+  key_f25                   kf25       = ^[[1;5P
+  key_f26                   kf26       = ^[[1;5Q
+  key_f27                   kf27       = ^[[1;5R
+  key_f28                   kf28       = ^[[1;5S
+  key_f29                   kf29       = ^[[15;5~
+  key_f30                   kf30       = ^[[17;5~
+  key_f31                   kf31       = ^[[18;5~
+  key_f32                   kf32       = ^[[19;5~
+  key_f33                   kf33       = ^[[20;5~
+  key_f34                   kf34       = ^[[21;5~
+  key_f35                   kf35       = ^[[23;5~
+  key_f36                   kf36       = ^[[24;5~
+  key_f37                   kf37       = ^[[1;6P
+  key_f38                   kf38       = ^[[1;6Q
+  key_f39                   kf39       = ^[[1;6R
+  key_f40                   kf40       = ^[[1;6S
+  key_f41                   kf41       = ^[[15;6~
+  key_f42                   kf42       = ^[[17;6~
+  key_f43                   kf43       = ^[[18;6~
+  key_f44                   kf44       = ^[[19;6~
+  key_f45                   kf45       = ^[[20;6~
+  key_f46                   kf46       = ^[[21;6~
+  key_f47                   kf47       = ^[[23;6~
+  key_f48                   kf48       = ^[[24;6~
+  key_f49                   kf49       = ^[[1;3P
+  key_f50                   kf50       = ^[[1;3Q
+  key_f51                   kf51       = ^[[1;3R
+  key_f52                   kf52       = ^[[1;3S
+  key_f53                   kf53       = ^[[15;3~
+  key_f54                   kf54       = ^[[17;3~
+  key_f55                   kf55       = ^[[18;3~
+  key_f56                   kf56       = ^[[19;3~
+  key_f57                   kf57       = ^[[20;3~
+  key_f58                   kf58       = ^[[21;3~
+  key_f59                   kf59       = ^[[23;3~
+  key_f60                   kf60       = ^[[24;3~
+  key_f61                   kf61       = ^[[1;4P
+  key_f62                   kf62       = ^[[1;4Q
+  key_f63                   kf63       = ^[[1;4R
+  clr_bol                   el1        = ^[[1K
+  user6                     u6         = ^[[%i%d;%dR
+  user7                     u7         = ^[[6n
+  user8                     u8         = ^[[?1;2c
+  user9                     u9         = ^[[c
+  orig_pair                 op         = ^[[39;49m
+  initialize_color          initc      = ^[]4;%p1%d;rgb:%p2%{255}%*%{1000}%/%2.2X/%p3%{255}%*%{1000}%/%2.2X/%p4%{255}%*%{1000}%/%2.2X^[\
+  enter_italics_mode        sitm       = ^[[3m
+  exit_italics_mode         ritm       = ^[[23m
+  key_mouse                 kmous      = ^[[M
+  set_a_foreground          setaf      = ^[[%?%p1%{8}%<%t3%p1%d%e%p1%{16}%<%t9%p1%{8}%-%d%e38;5;%p1%d%;m
+  set_a_background          setab      = ^[[%?%p1%{8}%<%t4%p1%d%e%p1%{16}%<%t10%p1%{8}%-%d%e48;5;%p1%d%;m
+  set_tb_margin             smgtb      = ^[[%i%p1%d;%p2%dr
+  memory_lock               meml       = ^[l
+  memory_unlock             memu       = ^[m
+Extended boolean capabilities:
+  AX                        = true
+  G0                        = false
+  XT                        = true
+Extended numeric capabilities:
+  U8                        = -1
+Extended string capabilities:
+  Cr                        = ^[]112^G
+  Cs                        = ^[]12;%p1%s^G
+  E0                        = 
+  E3                        = ^[[3J
+  Ms                        = ^[]52;%p1%s;%p2%s^G
+  S0                        = 
+  Se                        = ^[[2 q
+  Ss                        = ^[[%p1%d q
+  kDC3                      = ^[[3;3~
+  kDC4                      = ^[[3;4~
+  kDC5                      = ^[[3;5~
+  kDC6                      = ^[[3;6~
+  kDC7                      = ^[[3;7~
+  kDN                       = ^[[1;2B
+  kDN3                      = ^[[1;3B
+  kDN4                      = ^[[1;4B
+  kDN5                      = ^[[1;5B
+  kDN6                      = ^[[1;6B
+  kDN7                      = ^[[1;7B
+  kEND3                     = ^[[1;3F
+  kEND4                     = ^[[1;4F
+  kEND5                     = ^[[1;5F
+  kEND6                     = ^[[1;6F
+  kEND7                     = ^[[1;7F
+  kHOM3                     = ^[[1;3H
+  kHOM4                     = ^[[1;4H
+  kHOM5                     = ^[[1;5H
+  kHOM6                     = ^[[1;6H
+  kHOM7                     = ^[[1;7H
+  kIC3                      = ^[[2;3~
+  kIC4                      = ^[[2;4~
+  kIC5                      = ^[[2;5~
+  kIC6                      = ^[[2;6~
+  kIC7                      = ^[[2;7~
+  kLFT3                     = ^[[1;3D
+  kLFT4                     = ^[[1;4D
+  kLFT5                     = ^[[1;5D
+  kLFT6                     = ^[[1;6D
+  kLFT7                     = ^[[1;7D
+  kNXT3                     = ^[[6;3~
+  kNXT4                     = ^[[6;4~
+  kNXT5                     = ^[[6;5~
+  kNXT6                     = ^[[6;6~
+  kNXT7                     = ^[[6;7~
+  kPRV3                     = ^[[5;3~
+  kPRV4                     = ^[[5;4~
+  kPRV5                     = ^[[5;5~
+  kPRV6                     = ^[[5;6~
+  kPRV7                     = ^[[5;7~
+  kRIT3                     = ^[[1;3C
+  kRIT4                     = ^[[1;4C
+  kRIT5                     = ^[[1;5C
+  kRIT6                     = ^[[1;6C
+  kRIT7                     = ^[[1;7C
+  kUP                       = ^[[1;2A
+  kUP3                      = ^[[1;3A
+  kUP4                      = ^[[1;4A
+  kUP5                      = ^[[1;5A
+  kUP6                      = ^[[1;6A
+  kUP7                      = ^[[1;7A
+  ka2                       = 
+  kb1                       = 
+  kb3                       = 
+  kc2                       = 
+  ext.get_bg                = ^[]11;?^G
+  ext.get_extkeys           = ^[[?u^[[c
+  ext.resize_screen         = ^[[8;%p1%d;%p2%dt
+  ext.reset_scroll_region   = ^[[r
+  ext.enter_altfont_mode    = ^[[11m
+  setrgbf                   = ^[[38;2;%p1%d;%p2%d;%p3%dm
+  setrgbb                   = ^[[48;2;%p1%d;%p2%d;%p3%dm
+  ext.save_title            = ^[[22;0t
+  ext.restore_title         = ^[[23;0t
+  ext.enable_lr_margin      = ^[[?69h
+  ext.disable_lr_margin     = ^[[?69l
+  ext.enable_bpaste         = ^[[?2004h
+  ext.disable_bpaste        = ^[[?2004l
+  ext.enable_focus          = ^[[?1004h
+  ext.disable_focus         = ^[[?1004l
+  ext.enable_mouse          = ^[[?1002h^[[?1006h
+  ext.disable_mouse         = ^[[?1002l^[[?1006l
+  ext.enable_mouse_move     = ^[[?1003h
+  ext.disable_mouse_move    = ^[[?1003l
+  ext.enable_extended_keys  = ^[[>4;2m
+  ext.disable_extended_keys = ^[[>4;0m
+}}}
+
+[nvim-treesitter] [0/306] Downloading tree-sitter-ada...
+[nvim-treesitter] [0/306] Downloading tree-sitter-agda...
+[nvim-treesitter] [0/306] Downloading tree-sitter-angular...
+[nvim-treesitter] [0/306] Downloading tree-sitter-apex...
+[nvim-treesitter] [0/306] Downloading tree-sitter-arduino...
+[nvim-treesitter] [0/306] Downloading tree-sitter-asm...
+[nvim-treesitter] [0/306] Downloading tree-sitter-astro...
+[nvim-treesitter] [0/306] Downloading tree-sitter-authzed...
+[nvim-treesitter] [0/306] Downloading tree-sitter-awk...
+[nvim-treesitter] [0/306] Downloading tree-sitter-bash...
+[nvim-treesitter] [0/306] Downloading tree-sitter-bass...
+[nvim-treesitter] [0/306] Downloading tree-sitter-beancount...
+[nvim-treesitter] [0/306] Downloading tree-sitter-bibtex...
+[nvim-treesitter] [0/306] Downloading tree-sitter-bicep...
+[nvim-treesitter] [0/306] Downloading tree-sitter-bitbake...
+[nvim-treesitter] [0/306] Downloading tree-sitter-blueprint...
+[nvim-treesitter] [0/306] Downloading tree-sitter-bp...
+[nvim-treesitter] [0/306] Downloading tree-sitter-c...
+[nvim-treesitter] [0/306] Downloading tree-sitter-c_sharp...
+[nvim-treesitter] [0/306] Downloading tree-sitter-cairo...
+[nvim-treesitter] [0/306] Downloading tree-sitter-capnp...
+[nvim-treesitter] [0/306] Downloading tree-sitter-chatito...
+[nvim-treesitter] [0/306] Downloading tree-sitter-clojure...
+[nvim-treesitter] [0/306] Downloading tree-sitter-cmake...
+[nvim-treesitter] [0/306] Downloading tree-sitter-comment...
+[nvim-treesitter] [0/306] Downloading tree-sitter-commonlisp...
+[nvim-treesitter] [0/306] Downloading tree-sitter-cooklang...
+[nvim-treesitter] [0/306] Downloading tree-sitter-corn...
+[nvim-treesitter] [0/306] Downloading tree-sitter-cpon...
+[nvim-treesitter] [0/306] Downloading tree-sitter-cpp...
+[nvim-treesitter] [0/306] Downloading tree-sitter-css...
+[nvim-treesitter] [0/306] Downloading tree-sitter-csv...
+[nvim-treesitter] [0/306] Downloading tree-sitter-cuda...
+[nvim-treesitter] [0/306] Downloading tree-sitter-cue...
+[nvim-treesitter] [0/306] Downloading tree-sitter-cylc...
+[nvim-treesitter] [0/306] Downloading tree-sitter-d...
+[nvim-treesitter] [0/306] Downloading tree-sitter-dart...
+[nvim-treesitter] [0/306] Downloading tree-sitter-desktop...
+[nvim-treesitter] [0/306] Downloading tree-sitter-devicetree...
+[nvim-treesitter] [0/306] Downloading tree-sitter-dhall...
+[nvim-treesitter] [0/306] Downloading tree-sitter-diff...
+[nvim-treesitter] [0/306] Downloading tree-sitter-disassembly...
+[nvim-treesitter] [0/306] Downloading tree-sitter-djot...
+[nvim-treesitter] [0/306] Downloading tree-sitter-dockerfile...
+[nvim-treesitter] [0/306] Downloading tree-sitter-dot...
+[nvim-treesitter] [0/306] Downloading tree-sitter-doxygen...
+[nvim-treesitter] [0/306] Downloading tree-sitter-dtd...
+[nvim-treesitter] [0/306] Downloading tree-sitter-earthfile...
+[nvim-treesitter] [0/306] Downloading tree-sitter-ebnf...
+[nvim-treesitter] [0/306] Downloading tree-sitter-editorconfig...
+[nvim-treesitter] [0/306] Downloading tree-sitter-eds...
+[nvim-treesitter] [0/306] Downloading tree-sitter-eex...
+[nvim-treesitter] [0/306] Downloading tree-sitter-elixir...
+[nvim-treesitter] [0/306] Downloading tree-sitter-elm...
+[nvim-treesitter] [0/306] Downloading tree-sitter-elsa...
+[nvim-treesitter] [0/306] Downloading tree-sitter-elvish...
+[nvim-treesitter] [0/306] Downloading tree-sitter-embedded_template...
+[nvim-treesitter] [0/306] Downloading tree-sitter-erlang...
+[nvim-treesitter] [0/306] Downloading tree-sitter-facility...
+[nvim-treesitter] [0/306] Downloading tree-sitter-faust...
+[nvim-treesitter] [0/306] Downloading tree-sitter-fennel...
+[nvim-treesitter] [0/306] Downloading tree-sitter-fidl...
+[nvim-treesitter] [0/306] Downloading tree-sitter-firrtl...
+[nvim-treesitter] [0/306] Downloading tree-sitter-fish...
+[nvim-treesitter] [0/306] Downloading tree-sitter-foam...
+[nvim-treesitter] [0/306] Downloading tree-sitter-forth...
+[nvim-treesitter] [0/306] Downloading tree-sitter-fortran...
+[nvim-treesitter] [0/306] Downloading tree-sitter-fsh...
+[nvim-treesitter] [0/306] Downloading tree-sitter-fsharp...
+[nvim-treesitter] [0/306] Downloading tree-sitter-func...
+[nvim-treesitter] [0/306] Downloading tree-sitter-fusion...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gap...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gaptst...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gdscript...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gdshader...
+[nvim-treesitter] [0/306] Downloading tree-sitter-git_config...
+[nvim-treesitter] [0/306] Downloading tree-sitter-git_rebase...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gitattributes...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gitcommit...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gitignore...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gleam...
+[nvim-treesitter] [0/306] Downloading tree-sitter-glimmer...
+[nvim-treesitter] [0/306] Downloading tree-sitter-glimmer_javascript...
+[nvim-treesitter] [0/306] Downloading tree-sitter-glimmer_typescript...
+[nvim-treesitter] [0/306] Downloading tree-sitter-glsl...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gn...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gnuplot...
+[nvim-treesitter] [0/306] Downloading tree-sitter-go...
+[nvim-treesitter] [0/306] Downloading tree-sitter-goctl...
+[nvim-treesitter] [0/306] Downloading tree-sitter-godot_resource...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gomod...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gosum...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gotmpl...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gowork...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gpg...
+[nvim-treesitter] [0/306] Downloading tree-sitter-graphql...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gren...
+[nvim-treesitter] [0/306] Downloading tree-sitter-groovy...
+[nvim-treesitter] [0/306] Downloading tree-sitter-gstlaunch...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hack...
+[nvim-treesitter] [0/306] Downloading tree-sitter-haskell...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hare...
+[nvim-treesitter] [0/306] Downloading tree-sitter-haskell_persistent...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hcl...
+[nvim-treesitter] [0/306] Downloading tree-sitter-heex...
+[nvim-treesitter] [0/306] Downloading tree-sitter-helm...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hjson...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hlsl...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hlsplaylist...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hocon...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hoon...
+[nvim-treesitter] [0/306] Downloading tree-sitter-html...
+[nvim-treesitter] [0/306] Downloading tree-sitter-htmldjango...
+[nvim-treesitter] [0/306] Downloading tree-sitter-http...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hurl...
+[nvim-treesitter] [0/306] Downloading tree-sitter-hyprlang...
+[nvim-treesitter] [0/306] Downloading tree-sitter-idl...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-blueprint...
+[nvim-treesitter] [0/306] Extracting tree-sitter-dtd...
+[nvim-treesitter] [0/306] Extracting tree-sitter-asm...
+[nvim-treesitter] [0/306] Extracting tree-sitter-astro...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-bash...
+[nvim-treesitter] [0/306] Extracting tree-sitter-bass...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-bibtex...
+[nvim-treesitter] [0/306] Extracting tree-sitter-c...
+[nvim-treesitter] [0/306] Extracting tree-sitter-cpon...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-disassembly...
+[nvim-treesitter] [0/306] Extracting tree-sitter-dockerfile...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-dot...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-eds...
+[nvim-treesitter] [0/306] Extracting tree-sitter-eex...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-editorconfig...
+[nvim-treesitter] [0/306] Extracting tree-sitter-cooklang...
+[nvim-treesitter] [0/306] Extracting tree-sitter-css...
+[nvim-treesitter] [0/306] Extracting tree-sitter-embedded_template...
+[nvim-treesitter] [0/306] Extracting tree-sitter-bp...
+[nvim-treesitter] [0/306] Extracting tree-sitter-ebnf...
+[nvim-treesitter] [0/306] Extracting tree-sitter-elsa...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-clojure...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-foam...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-dart...
+[nvim-treesitter] [0/306] Extracting tree-sitter-cylc...
+[nvim-treesitter] [0/306] Extracting tree-sitter-agda...
+[nvim-treesitter] [0/306] Extracting tree-sitter-fusion...
+[nvim-treesitter] [0/306] Extracting tree-sitter-elixir...
+[nvim-treesitter] [0/306] Extracting tree-sitter-dhall...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-ada...
+[nvim-treesitter] [0/306] Extracting tree-sitter-beancount...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-bicep...
+[nvim-treesitter] [0/306] Extracting tree-sitter-capnp...
+[nvim-treesitter] [0/306] Extracting tree-sitter-comment...
+[nvim-treesitter] [0/306] Extracting tree-sitter-commonlisp...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-cue...
+[nvim-treesitter] [0/306] Extracting tree-sitter-desktop...
+[nvim-treesitter] [0/306] Extracting tree-sitter-diff...
+[nvim-treesitter] [0/306] Extracting tree-sitter-earthfile...
+[nvim-treesitter] [0/306] Extracting tree-sitter-fsh...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-forth...
+[nvim-treesitter] [0/306] Extracting tree-sitter-doxygen...
+[nvim-treesitter] [0/306] Extracting tree-sitter-authzed...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-devicetree...
+[nvim-treesitter] [0/306] Extracting tree-sitter-facility...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gaptst...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-fidl...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gitignore...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-git_rebase...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-csv...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-elvish...
+[nvim-treesitter] [0/306] Extracting tree-sitter-erlang...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-cmake...
+[nvim-treesitter] [0/306] Extracting tree-sitter-corn...
+[nvim-treesitter] [0/306] Extracting tree-sitter-git_config...
+[nvim-treesitter] [0/306] Extracting tree-sitter-bitbake...
+[nvim-treesitter] [0/306] Extracting tree-sitter-chatito...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-graphql...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gap...
+[nvim-treesitter] [0/306] Extracting tree-sitter-html...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-glimmer_typescript...
+[nvim-treesitter] [0/306] Extracting tree-sitter-awk...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-haskell...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-elm...
+[nvim-treesitter] [0/306] Extracting tree-sitter-fennel...
+[nvim-treesitter] [0/306] Extracting tree-sitter-func...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gitattributes...
+[nvim-treesitter] [0/306] Extracting tree-sitter-go...
+[nvim-treesitter] [0/306] Extracting tree-sitter-goctl...
+[nvim-treesitter] [0/306] Extracting tree-sitter-c_sharp...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gowork...
+[nvim-treesitter] [0/306] Extracting tree-sitter-haskell_persistent...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-hocon...
+[nvim-treesitter] [0/306] Extracting tree-sitter-htmldjango...
+[nvim-treesitter] [0/306] Extracting tree-sitter-http...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gn...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gotmpl...
+[nvim-treesitter] [0/306] Extracting tree-sitter-faust...
+[nvim-treesitter] [0/306] Extracting tree-sitter-glimmer_javascript...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-hurl...
+[nvim-treesitter] [0/306] Extracting tree-sitter-idl...
+[nvim-treesitter] [0/306] Extracting tree-sitter-apex...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gosum...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gpg...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-hoon...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-hjson...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-djot...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gstlaunch...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-glsl...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gren...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-hyprlang...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-gdscript...
+[nvim-treesitter] [0/306] Extracting tree-sitter-godot_resource...
+[nvim-treesitter] [0/306] Extracting tree-sitter-hlsplaylist...
+[nvim-treesitter] [0/306] Extracting tree-sitter-angular...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-fish...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gomod...
+[nvim-treesitter] [0/306] Extracting tree-sitter-helm...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gnuplot...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-cairo...
+[nvim-treesitter] [0/306] Extracting tree-sitter-firrtl...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Extracting tree-sitter-glimmer...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-arduino...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-hack...
+[nvim-treesitter] [0/306] Extracting tree-sitter-hare...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gitcommit...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-hcl...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-cpp...
+[nvim-treesitter] [0/306] Extracting tree-sitter-gleam...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-cuda...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-d...
+[nvim-treesitter] [0/306] Extracting tree-sitter-heex...
+[nvim-treesitter] [0/306] Creating temporary directory
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-groovy...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-hlsl...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-fortran...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Extracting tree-sitter-fsharp...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [0/306] Compiling...
+[nvim-treesitter] [1/306] Treesitter parser for eex has been installed
+[nvim-treesitter] [2/306] Treesitter parser for eds has been installed
+[nvim-treesitter] [3/306] Treesitter parser for embedded_template has been installed
+[nvim-treesitter] [4/306] Treesitter parser for cooklang has been installed
+[nvim-treesitter] [4/306] Compiling...
+[nvim-treesitter] [5/306] Treesitter parser for cpon has been installed
+[nvim-treesitter] [6/306] Treesitter parser for ebnf has been installed
+[nvim-treesitter] [6/306] Compiling...
+[nvim-treesitter] [6/306] Compiling...
+[nvim-treesitter] [6/306] Compiling...
+[nvim-treesitter] [6/306] Compiling...
+[nvim-treesitter] [6/306] Compiling...
+[nvim-treesitter] [7/306] Treesitter parser for bibtex has been installed
+[nvim-treesitter] [7/306] Compiling...
+[nvim-treesitter] [7/306] Compiling...
+[nvim-treesitter] [8/306] Treesitter parser for disassembly has been installed
+[nvim-treesitter] [9/306] Treesitter parser for elsa has been installed
+[nvim-treesitter] [9/306] Compiling...
+[nvim-treesitter] [9/306] Compiling...
+[nvim-treesitter] [9/306] Compiling...
+[nvim-treesitter] [10/306] Treesitter parser for bass has been installed
+[nvim-treesitter] [10/306] Compiling...
+[nvim-treesitter] [10/306] Compiling...
+[nvim-treesitter] [10/306] Compiling...
+[nvim-treesitter] [10/306] Compiling...
+[nvim-treesitter] [10/306] Compiling...
+[nvim-treesitter] [10/306] Compiling...
+[nvim-treesitter] [11/306] Treesitter parser for blueprint has been installed
+[nvim-treesitter] [11/306] Creating temporary directory
+[nvim-treesitter] [11/306] Compiling...
+[nvim-treesitter] [11/306] Compiling...
+[nvim-treesitter] [11/306] Compiling...
+[nvim-treesitter] [12/306] Treesitter parser for dtd has been installed
+[nvim-treesitter] [13/306] Treesitter parser for asm has been installed
+[nvim-treesitter] [14/306] Treesitter parser for editorconfig has been installed
+[nvim-treesitter] [15/306] Treesitter parser for astro has been installed
+[nvim-treesitter] [15/306] Compiling...
+[nvim-treesitter] [16/306] Treesitter parser for desktop has been installed
+[nvim-treesitter] [16/306] Compiling...
+[nvim-treesitter] [17/306] Treesitter parser for comment has been installed
+[nvim-treesitter] [18/306] Treesitter parser for gaptst has been installed
+[nvim-treesitter] [18/306] Compiling...
+[nvim-treesitter] [19/306] Treesitter parser for foam has been installed
+[nvim-treesitter] [19/306] Compiling...
+[nvim-treesitter] [20/306] Treesitter parser for gitignore has been installed
+[nvim-treesitter] [20/306] Extracting tree-sitter-gdshader...
+[nvim-treesitter] [20/306] Compiling...
+[nvim-treesitter] [21/306] Treesitter parser for git_rebase has been installed
+[nvim-treesitter] [22/306] Treesitter parser for css has been installed
+[nvim-treesitter] [23/306] Treesitter parser for csv has been installed
+[nvim-treesitter] [24/306] Treesitter parser for chatito has been installed
+[nvim-treesitter] [25/306] Treesitter parser for corn has been installed
+[nvim-treesitter] [26/306] Treesitter parser for facility has been installed
+[nvim-treesitter] [26/306] Compiling...
+[nvim-treesitter] [27/306] Treesitter parser for graphql has been installed
+[nvim-treesitter] [28/306] Treesitter parser for fidl has been installed
+[nvim-treesitter] [29/306] Treesitter parser for git_config has been installed
+[nvim-treesitter] [30/306] Treesitter parser for diff has been installed
+[nvim-treesitter] [31/306] Treesitter parser for dockerfile has been installed
+[nvim-treesitter] [32/306] Treesitter parser for gowork has been installed
+[nvim-treesitter] [33/306] Treesitter parser for forth has been installed
+[nvim-treesitter] [34/306] Treesitter parser for cylc has been installed
+[nvim-treesitter] [35/306] Treesitter parser for gosum has been installed
+[nvim-treesitter] [36/306] Treesitter parser for fusion has been installed
+[nvim-treesitter] [37/306] Treesitter parser for devicetree has been installed
+[nvim-treesitter] [38/306] Treesitter parser for capnp has been installed
+[nvim-treesitter] [39/306] Treesitter parser for doxygen has been installed
+[nvim-treesitter] [40/306] Treesitter parser for gn has been installed
+[nvim-treesitter] [41/306] Treesitter parser for gitattributes has been installed
+[nvim-treesitter] [42/306] Treesitter parser for beancount has been installed
+[nvim-treesitter] [43/306] Treesitter parser for bicep has been installed
+[nvim-treesitter] [44/306] Treesitter parser for c has been installed
+[nvim-treesitter] [45/306] Treesitter parser for html has been installed
+[nvim-treesitter] [46/306] Treesitter parser for hjson has been installed
+[nvim-treesitter] [47/306] Treesitter parser for dhall has been installed
+[nvim-treesitter] [48/306] Treesitter parser for func has been installed
+[nvim-treesitter] [49/306] Treesitter parser for cmake has been installed
+[nvim-treesitter] [50/306] Treesitter parser for fsh has been installed
+[nvim-treesitter] [51/306] Treesitter parser for ada has been installed
+[nvim-treesitter] [52/306] Treesitter parser for godot_resource has been installed
+[nvim-treesitter] [53/306] Treesitter parser for hocon has been installed
+[nvim-treesitter] [54/306] Treesitter parser for hlsplaylist has been installed
+[nvim-treesitter] [55/306] Treesitter parser for gomod has been installed
+[nvim-treesitter] [56/306] Treesitter parser for erlang has been installed
+[nvim-treesitter] [57/306] Treesitter parser for htmldjango has been installed
+[nvim-treesitter] [58/306] Treesitter parser for gap has been installed
+[nvim-treesitter] [59/306] Treesitter parser for goctl has been installed
+[nvim-treesitter] [60/306] Treesitter parser for go has been installed
+[nvim-treesitter] [61/306] Treesitter parser for glimmer has been installed
+[nvim-treesitter] [62/306] Treesitter parser for http has been installed
+[nvim-treesitter] [63/306] Treesitter parser for dot has been installed
+[nvim-treesitter] [64/306] Treesitter parser for bp has been installed
+[nvim-treesitter] [65/306] Treesitter parser for faust has been installed
+[nvim-treesitter] [66/306] Treesitter parser for hurl has been installed
+[nvim-treesitter] [67/306] Treesitter parser for hyprlang has been installed
+[nvim-treesitter] [68/306] Treesitter parser for heex has been installed
+[nvim-treesitter] [69/306] Treesitter parser for earthfile has been installed
+[nvim-treesitter] [70/306] Treesitter parser for hare has been installed
+[nvim-treesitter] [71/306] Treesitter parser for firrtl has been installed
+[nvim-treesitter] [72/306] Treesitter parser for gdscript has been installed
+[nvim-treesitter] [73/306] Treesitter parser for angular has been installed
+[nvim-treesitter] [73/306] Compiling...
+[nvim-treesitter] [74/306] Treesitter parser for commonlisp has been installed
+[nvim-treesitter] [75/306] Treesitter parser for clojure has been installed
+[nvim-treesitter] [76/306] Treesitter parser for dart has been installed
+[nvim-treesitter] [77/306] Treesitter parser for gleam has been installed
+[nvim-treesitter] [78/306] Treesitter parser for fish has been installed
+[nvim-treesitter] [79/306] Treesitter parser for glimmer_javascript has been installed
+[nvim-treesitter] [80/306] Treesitter parser for cairo has been installed
+[nvim-treesitter] [81/306] Treesitter parser for hcl has been installed
+[nvim-treesitter] [82/306] Treesitter parser for gpg has been installed
+[nvim-treesitter] [83/306] Treesitter parser for glsl has been installed
+[nvim-treesitter] [84/306] Treesitter parser for gstlaunch has been installed
+[nvim-treesitter] [85/306] Treesitter parser for bitbake has been installed
+[nvim-treesitter] [86/306] Treesitter parser for groovy has been installed
+[nvim-treesitter] [87/306] Treesitter parser for awk has been installed
+[nvim-treesitter] [88/306] Treesitter parser for authzed has been installed
+[nvim-treesitter] [89/306] Treesitter parser for djot has been installed
+[nvim-treesitter] [90/306] Treesitter parser for elixir has been installed
+[nvim-treesitter] [91/306] Treesitter parser for elm has been installed
+[nvim-treesitter] [92/306] Treesitter parser for idl has been installed
+[nvim-treesitter] [93/306] Treesitter parser for gren has been installed
+[nvim-treesitter] [94/306] Treesitter parser for apex has been installed
+[nvim-treesitter] [95/306] Treesitter parser for fennel has been installed
+[nvim-treesitter] [96/306] Treesitter parser for glimmer_typescript has been installed
+[nvim-treesitter] [97/306] Treesitter parser for hoon has been installed
+[nvim-treesitter] [98/306] Treesitter parser for haskell_persistent has been installed
+[nvim-treesitter] [99/306] Treesitter parser for bash has been installed
+[nvim-treesitter] [100/306] Treesitter parser for hack has been installed
+[nvim-treesitter] [101/306] Treesitter parser for agda has been installed
+[nvim-treesitter] [102/306] Treesitter parser for cue has been installed
+[nvim-treesitter] [103/306] Treesitter parser for elvish has been installed
+[nvim-treesitter] [104/306] Treesitter parser for arduino has been installed
+[nvim-treesitter] [105/306] Treesitter parser for cpp has been installed
+[nvim-treesitter] [106/306] Treesitter parser for cuda has been installed
+[nvim-treesitter] [107/306] Treesitter parser for haskell has been installed
+[nvim-treesitter] [108/306] Treesitter parser for hlsl has been installed
+[nvim-treesitter] [109/306] Treesitter parser for c_sharp has been installed
+[nvim-treesitter] [110/306] Treesitter parser for gdshader has been installed
+[nvim-treesitter] [111/306] Treesitter parser for d has been installed
+[nvim-treesitter] [112/306] Treesitter parser for fortran has been installed
+[nvim-treesitter] [113/306] Treesitter parser for fsharp has been installed
+[nvim-treesitter] [114/306] Treesitter parser for gitcommit has been installed
+[nvim-treesitter] [115/306] Treesitter parser for gotmpl has been installed
+[nvim-treesitter] [116/306] Treesitter parser for helm has been installed
+[nvim-treesitter] [117/306] Treesitter parser for gnuplot has been installed
+Type  :qa  and press <Enter> to exit Nvim
+
+Writing ShaDa file "/Users/nathanblackburn/.local/state/nvim/shada/main.shada"
